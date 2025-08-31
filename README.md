@@ -19,11 +19,11 @@
 
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn] - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parteek%20Yadav-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/parteek-yadav-561499334)  
-[![GitHub] - (https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ParteekYadav)  
+- 💼 [LinkedIn] - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parteek%20Yadav-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/parteek-yadav-561499334)    
 - 🌍 [Portfolio Website] - 
 - ✉️ Email: parteekyadav.702@gmail.com
 
 ---
 
-⭐️ From [Parteek Yadav (Partix)](https://github.com/ParteekYadav)
+⭐️ From [Parteek Yadav (Partix)]
+(https://github.com/Parteek-Yadav)
